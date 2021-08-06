@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="202.98999mm"
+   height="32.62339mm"
+   viewBox="0 0 202.98999 32.62339"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="black-on-yellow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.66903058"
+     inkscape:cx="386.37994"
+     inkscape:cy="513.42944"
+     inkscape:window-width="2560"
+     inkscape:window-height="1380"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.9545984,-12.710751)">
+    <g
+       id="g30662"
+       transform="matrix(0.90620529,0,0,0.90620529,-101.64415,-100.17977)">
+      <rect
+         style="fill:#ffff00;stroke:none;stroke-width:1.73986;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect17591"
+         width="224"
+         height="36"
+         x="115.425"
+         y="124.575"
+         ry="6.6618223" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15.7561px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.393902"
+         x="166.43529"
+         y="146.65582"
+         id="text21603"><tspan
+           sodipodi:role="line"
+           id="tspan21601"
+           x="166.43529"
+           y="146.65582"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Helvetica Neue LT Pro';-inkscape-font-specification:'Helvetica Neue LT Pro';stroke-width:0.393902">Login with Lightning</tspan></text>
+      <path
+         d="m 152.38227,140.36967 -12.8135,13.17531 5.10111,-10.0652 h -9.35203 l 11.72045,-11.87476 -3.76514,8.87776 z"
+         fill="#000000"
+         id="path23455"
+         style="stroke-width:1.21889" />
+    </g>
+  </g>
+</svg>
